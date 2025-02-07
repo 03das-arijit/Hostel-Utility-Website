@@ -1,2 +1,2 @@
 # Hostel-Utility-Website
-This Project “HOSTEL UTILITY WEBSITE” targeted for the College Hostel integrates the transaction management of the Hostel for better control and timely response.
+This project is a web-based Hostel Management System designed to efficiently manage hostel affairs. It allows hostel officers to maintain records related to room occupancy, student details, payment status, and complaints. The system also features an administrator module for managing employees and ensuring smooth operations.
